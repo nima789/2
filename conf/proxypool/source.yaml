@@ -23,10 +23,13 @@
 - type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-48-1.html
+- type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-2-1.html
+- type: web-fanqiangdang
   options:
     url: https://fanqiangdang.com/forum-36-1.html
+- type: web-fanqiangdang
   options:
     url:https://fanqiangdang.com/forum-50-1.html
 

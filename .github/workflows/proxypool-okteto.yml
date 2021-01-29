@@ -28,8 +28,8 @@ on:
   schedule:
      - cron: '0 12 * * *'
   # 点☆Star触发开始编译
-  watch:  
-     types: [started]
+  #watch:  
+  #   types: [started]
      
 
 # 任务集

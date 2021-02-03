@@ -39,6 +39,22 @@
 - type: subscribe
   options:
     url: https://rss.cnrss.xyz/link/Zq1P3T2S91eAgqKm?mu=2
+    
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ss/sub
+    
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ssr/sub
+    
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/vmess/sub
+    
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/trojan/sub
 
 # 网页模糊抓取
 - type: webfuzz
@@ -76,22 +92,6 @@
 - type: clash
   options:
     url: https://proxypool.ga/clash/proxies
-    
-- type: clash
-  options:
-    url: https://proxypoolss.tk/ss/sub
-    
-- type: clash
-  options:
-    url: https://proxypoolss.tk/ssr/sub
-    
-- type: clash
-  options:
-    url: https://proxypoolss.tk/vmess/sub
-    
-- type: clash
-  options:
-    url: https://proxypoolss.tk/trojan/sub
 
 # 某个网站抓取
 - type: web-freessrxyz

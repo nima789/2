@@ -39,22 +39,6 @@
 - type: subscribe
   options:
     url: https://rss.cnrss.xyz/link/Zq1P3T2S91eAgqKm?mu=2
-    
-- type: subscribe
-  options:
-    url: https://proxypoolss.tk/ss/sub
-    
-- type: subscribe
-  options:
-    url: https://proxypoolss.tk/ssr/sub
-    
-- type: subscribe
-  options:
-    url: https://proxypoolss.tk/vmess/sub
-    
-- type: subscribe
-  options:
-    url: https://proxypoolss.tk/trojan/sub
 
 # 网页模糊抓取
 - type: webfuzz

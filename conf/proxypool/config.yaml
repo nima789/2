@@ -1,11 +1,11 @@
 # your domain
 domain: proxypool.clash1.workers.dev
-port:  12580
+port: 12580                # default 12580
 
 # source list file
 source-files:
   # use local file
-  - /proxypool-src/conf/proxypool/source.yaml
+  - ./config/source.yaml
   # use web file
   # - https://example.com/config/source.yaml
 

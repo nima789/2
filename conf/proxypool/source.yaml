@@ -30,7 +30,7 @@
  
 - type: subscribe
   options:
-    url: https://rss.cnrss.xyz/link/0VoeilWA5uECNB5v?mu=1
+    url: https://smallairport.icu/api/v1/client/subscribe?token=12155e1270aea61fc7ac36ceffb59fb5
         
 - type: subscribe
   options:
@@ -76,6 +76,10 @@
 - type: clash
   options:
     url: https://proxypool.ga/clash/proxies
+    
+- type: clash
+  options:
+    url: https://proxypoolss.tk/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz

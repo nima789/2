@@ -10,18 +10,6 @@
 
 - type: subscribe
   options:
-    url: https://xzpan.ga/sub?target=ss&url=https%3A%2F%2Fproxypoolss.tk%2Fss%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
-    
-- type: subscribe
-  options:
-    url: https://xzpan.ga/sub?target=ssr&url=https%3A%2F%2Fproxypool.clash1.workers.dev%2Fssr%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
-    
-- type: subscribe
-  options:
-    url: https://xzpan.ga/sub?target=v2ray&url=https%3A%2F%2Fproxypoolss.tk%2Fvmess%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
-    
-- type: subscribe
-  options:
     url: https://getlsjlink.com/link/df7b1986ba083f4355955dc5dbd4d4ced69570e7
     
 - type: subscribe
@@ -69,6 +57,10 @@
     url: https://fanqiangdang.com/forum-50-1.html
 
 # clash格式订阅链接
+- type: clash
+  options:
+    url: https://xzpan.ga/sub?target=clash&new_name=true&url=https%3A%2F%2Fproxypoolss.tk%2Fclash%2Fproxies&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
+    
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml

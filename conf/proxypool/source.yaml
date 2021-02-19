@@ -10,15 +10,15 @@
 
 - type: subscribe
   options:
-    url: http://proxypool.turinglabs.net/upload/daily/v2ray
+    url: https://xzpan.ga/sub?target=ss&url=https%3A%2F%2Fproxypoolss.tk%2Fss%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
     
 - type: subscribe
   options:
-    url: http://proxypool.turinglabs.net/upload/daily/shadowsocksR
+    url: https://xzpan.ga/sub?target=ssr&url=https%3A%2F%2Fproxypool.clash1.workers.dev%2Fssr%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
     
 - type: subscribe
   options:
-    url: http://proxypool.turinglabs.net/upload/daily/shadowsocks
+    url: https://xzpan.ga/sub?target=v2ray&url=https%3A%2F%2Fproxypoolss.tk%2Fvmess%2Fsub&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
     
 - type: subscribe
   options:
@@ -72,14 +72,6 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-- type: clash
-  options:
-    url: https://proxypool.ga/clash/proxies
-    
-- type: clash
-  options:
-    url: https://proxypoolss.tk/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz

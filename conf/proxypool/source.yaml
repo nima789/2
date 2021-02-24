@@ -10,7 +10,7 @@
 
 - type: subscribe
   options:
-    url: https://bihai.cf/sip002/sub
+    url: 
     
 - type: subscribe
   options:
@@ -89,3 +89,11 @@
 - type: web-freessrxyz
   options:
    url: https://free-ss.site/
+   
+- type: web-freessrxyz
+  options:
+   url: https://fanqiang.network/
+   
+- type: web-freessrxyz
+  options:
+   url: https://fanqiang.network/free-v2ray

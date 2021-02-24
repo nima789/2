@@ -10,6 +10,18 @@
 
 - type: subscribe
   options:
+    url: https://bihai.cf/sip002/sub
+    
+- type: subscribe
+  options:
+    url: https://bihai.cf/ssr/sub
+    
+- type: subscribe
+  options:
+    url: https://bihai.cf/vmess/sub
+    
+- type: subscribe
+  options:
     url: https://getlsjlink.com/link/df7b1986ba083f4355955dc5dbd4d4ced69570e7
     
 - type: subscribe
@@ -59,12 +71,21 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://xzpan.ga/sub?target=clash&new_name=true&url=https%3A%2F%2Fproxypoolss.tk%2Fclash%2Fproxies&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
+    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+
+- type: clash
+  options:
+    url: https://pool-840979.asia1.kinto.io/clash/proxies
     
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://bihai.cf/clash/proxies
+    
+- type: clash
+  options:
+    url: https://proxy.moneyfly.club/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz
   options:
+   url: https://free-ss.site/

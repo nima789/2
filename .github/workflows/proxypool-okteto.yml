@@ -1,3 +1,17 @@
+  
+#=================================================
+# https://github.com/danxiaonuo/proxypool-okteto
+# Description: Build OpenWrt using GitHub Actions
+# Lisence: MIT
+# Author: danxiaonuo
+# Blog: https://www.danxiaonuo.com
+#=================================================
+
+# 编译的名称
+name: 自动部署okteto
+
+# 设置触发条件
+  
 #=================================================
 # https://github.com/danxiaonuo/proxypool-okteto
 # Description: Build OpenWrt using GitHub Actions

@@ -1,6 +1,6 @@
 name: pachong
 services:
-  proxypool:
+  pachong:
     public: true
     image: okteto.dev/pachong
     build: .
@@ -8,5 +8,5 @@ services:
     ports:
       - 12580
     resources:
-      cpu: 1024m
+      cpu: 600m
       memory: 300Mi

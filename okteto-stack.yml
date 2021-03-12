@@ -1,8 +1,8 @@
-name: proxypool
+name: pachong
 services:
   proxypool:
     public: true
-    image: okteto.dev/proxypool
+    image: okteto.dev/pachong
     build: .
     replicas: 1
     ports:

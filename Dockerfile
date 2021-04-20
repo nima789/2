@@ -44,7 +44,7 @@ RUN set -eux \
 # 运行工作目录
 WORKDIR /build
 # 克隆源码运行安装
-RUN git clone --depth=1 --progress https://github.com/Sansui233/proxypool.git /src && \
+RUN git clone --depth=1 --progress https://github.com/nima789/proxypool.git /src && \
     cd /src && go mod download && make docker
 # ##############################################################################
 

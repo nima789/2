@@ -18,7 +18,7 @@
     
 - type: subscribe
   options:
-    url: https://bihai.cf/vmess/sub
+    url: https://hm2019721.ml/vmess/sub
     
 - type: subscribe
   options:
@@ -79,7 +79,7 @@
     
 - type: clash
   options:
-    url: https://bihai.cf/clash/proxies
+    url: https://hm2019721.ml/clash/proxies
     
 - type: clash
   options:

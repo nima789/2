@@ -83,7 +83,7 @@
     
 - type: clash
   options:
-    url: https://proxy.moneyfly.club/clash/proxies
+    url: https://free.kingfu.cf/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz

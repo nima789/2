@@ -6,44 +6,24 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0512.txt
 
 - type: subscribe
   options:
-    url: 
-    
-- type: subscribe
-  options:
-    url: https://bihai.cf/ssr/sub
+    url: https://v2ray.banyunxiaoxi.ml/
     
 - type: subscribe
   options:
     url: https://hm2019721.ml/vmess/sub
-    
-- type: subscribe
-  options:
-    url: https://getlsjlink.com/link/df7b1986ba083f4355955dc5dbd4d4ced69570e7
-    
-- type: subscribe
-  options:
-    url: https://dingyue.suying666.info/link/iWk8PoBxfym705SX?sub=1
- 
-- type: subscribe
-  options:
-    url: https://smallairport.icu/api/v1/client/subscribe?token=12155e1270aea61fc7ac36ceffb59fb5
-        
-- type: subscribe
-  options:
-    url: https://tudog-rss.com/link/ERVdxxFOl7e7cshu?sub=3
-  
-- type: subscribe
-  options:
-    url: https://rss.cnrss.xyz/link/Zq1P3T2S91eAgqKm?mu=2
 
 # 网页模糊抓取
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
+    
+- type: webfuzz
+  options:
+    url: https://github.com/pojiezhiyuanjun/free
     
 # tg频道抓取
 - type: tgchannel
@@ -71,19 +51,15 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-- type: clash
-  options:
-    url: https://pool-840979.asia1.kinto.io/clash/proxies
-    
-- type: clash
-  options:
     url: https://hm2019721.ml/clash/proxies
     
 - type: clash
   options:
     url: https://free.kingfu.cf/clash/proxies
+    
+- type: clash
+  options:
+    url: https://www.yugogogogo.tk/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz

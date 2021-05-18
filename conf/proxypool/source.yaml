@@ -50,35 +50,35 @@
 # clash格式订阅链接
 - type: clash
   options:
-  url: https://hm2019721.ml/clash/proxies
+    url: https://hm2019721.ml/clash/proxies
   
 - type: clash
   options:
-  url: https://free.kingfu.cf/clash/proxies
+    url: https://free.kingfu.cf/clash/proxies
   
 - type: clash
   options:
-  url: https://www.yugogogogo.tk/clash/proxies
+    url: https://www.yugogogogo.tk/clash/proxies
   
 - type: clash
   options:
-  url: https://6166888.xyz/clash/proxies
+    url: https://6166888.xyz/clash/proxies
   
 - type: clash
   options:
-  url: https://raw.githubusercontent.com/yuanxiaozha/proxy-node/master/lastest.yaml
+    url: https://raw.githubusercontent.com/yuanxiaozha/proxy-node/master/lastest.yaml
   
 - type: clash
   options:
-  url: https://www.233660.xyz/clash/proxies
+    url: https://www.233660.xyz/clash/proxies
   
 - type: clash
   options:
-  url: https://emby.luoml.eu.org/clash/config
+    url: https://emby.luoml.eu.org/clash/config
   
 - type: clash
   options:
-  url: https://clashpool.ml/clash/proxies
+    url: https://clashpool.ml/clash/proxies
   
 # 翻墙党论坛抓取
 - type: web-fanqiangdang

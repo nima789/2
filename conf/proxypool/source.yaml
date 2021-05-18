@@ -25,6 +25,10 @@
   options:
     url: https://github.com/pojiezhiyuanjun/free
     
+- type: webfuzz
+  options:
+    url: https://github.com/freefq/free
+    
 # tg频道抓取
 - type: tgchannel
   options:

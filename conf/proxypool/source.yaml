@@ -85,6 +85,10 @@
   options:
     url: https://6166888.xyz/clash/proxies
 
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/yuanxiaozha/proxy-node/master/lastest.yaml
+
 # 某个网站抓取
 - type: web-freessrxyz
   options:

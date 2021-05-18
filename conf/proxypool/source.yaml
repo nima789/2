@@ -6,7 +6,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0512.txt
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0517.txt
 
 - type: subscribe
   options:
@@ -80,6 +80,10 @@
 - type: clash
   options:
     url: https://www.yugogogogo.tk/clash/proxies
+    
+- type: clash
+  options:
+    url: https://6166888.xyz/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz

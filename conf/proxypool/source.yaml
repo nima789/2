@@ -53,7 +53,7 @@
 - type: tgchannel
   options:
     channel: ShadowsocksRssr
-    num: 300
+    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang

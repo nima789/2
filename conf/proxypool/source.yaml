@@ -6,7 +6,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0517.txt
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0522.txt
 
 # 网页模糊抓取
 - type: webfuzz
@@ -74,7 +74,7 @@
   
 - type: clash
   options:
-    url: https://emby.luoml.eu.org/clash/config
+    url: https://emby.luoml.eu.org/clash/proxies
   
 - type: clash
   options:

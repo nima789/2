@@ -6,7 +6,15 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0522.txt
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0602.txt
+    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
 
 # 网页模糊抓取
 - type: webfuzz
@@ -15,11 +23,11 @@
     
 - type: webfuzz
   options:
-    url: https://github.com/pojiezhiyuanjun/free
+    url: https://github.com/freefq/free
     
 - type: webfuzz
   options:
-    url: https://github.com/freefq/free
+    url: https://github.com/ruanfei/ShadowsocksRRShare
 
 # tg频道抓取
 - type: tgchannel
@@ -45,6 +53,16 @@
 - type: tgchannel
   options:
     channel: ShadowsocksRssr
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ssrshares
     num: 200
 
 # clash格式订阅链接

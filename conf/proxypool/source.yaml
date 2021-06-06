@@ -43,6 +43,14 @@
 - type: subscribe
   options:
     url: https://youlianboshi.netlify.app/
+    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/pxylen/dog_jd/master/utils/qj
+    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/pxylen/dog_jd/master/utils/ml
 
 # 网页模糊抓取
 - type: webfuzz
